@@ -111,4 +111,4 @@ Capping discounts at 25% and introducing a manager approval system for higher di
 
 ---
 
-*This dashboard story was created as part of the Masai School Business Analytics Assignment, Part 4. All data is from dashboard_sales_data.xlsx.*
+
